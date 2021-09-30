@@ -19,6 +19,7 @@ import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.database.FirebaseDatabase;
 import com.moringaschool.movieapplication.R;
+import com.moringaschool.movieapplication.User;
 
 public class RegisterUser extends AppCompatActivity implements View.OnClickListener {
 
