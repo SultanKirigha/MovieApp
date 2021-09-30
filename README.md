@@ -7,6 +7,16 @@ Additionally, the following features were added to the project:
 - A Search screen to search for a movie name (this was used to test Retrofit and then was implemented on the final app)
 - Usage of CardViews on the RecyclerView
 
+# Screenshots
+|<img src="https://github.com/SultanMwangoyaKirigha/MovieApp/blob/main/app/src/main/res/drawable/img_6.jpg" width="200" height="400" />|
+<img src="https://github.com/SultanMwangoyaKirigha/MovieApp/blob/main/app/src/main/res/drawable/img_7.jpg" width="200" height="400" />|
+<img src="https://github.com/SultanMwangoyaKirigha/MovieApp/blob/main/app/src/main/res/drawable/img_8.jpg" width="200" height="400" />|
+<img src="https://github.com/SultanMwangoyaKirigha/MovieApp/blob/main/app/src/main/res/drawable/img_9.jpg" width="200" height="400" />|
+<img src="https://github.com/SultanMwangoyaKirigha/MovieApp/blob/main/app/src/main/res/drawable/img_10.jpg" width="200" height="400" />|
+<img src="https://github.com/SultanMwangoyaKirigha/MovieApp/blob/main/app/src/main/res/drawable/img_11.jpg" width="200" height="400" />|
+<img src="https://github.com/SultanMwangoyaKirigha/MovieApp/blob/main/app/src/main/res/drawable/img_12.jpg" width="200" height="400" />
+<img src="https://github.com/SultanMwangoyaKirigha/MovieApp/blob/main/app/src/main/res/drawable/img_13.jpg" width="200" height="400" />
+
 # Author
 Sultan Kirigha
 
@@ -40,15 +50,6 @@ Sultan Kirigha
 # Contact Information
 - Email : sultankirigha@gmail.com
 - Phone : +254 759834539
-
-
-# Screenshots
-|<img src="https://github.com/SultanMwangoyaKirigha/MovieApp/blob/main/app/src/main/res/drawable/img_6.jpg" width="200" height="400" />|
-<img src="https://github.com/SultanMwangoyaKirigha/MovieApp/blob/main/app/src/main/res/drawable/img_7.jpg" width="200" height="400" />|
-<img src="https://github.com/SultanMwangoyaKirigha/MovieApp/blob/main/app/src/main/res/drawable/img_8.jpg" width="200" height="400" />|
-<img src="https://github.com/SultanMwangoyaKirigha/MovieApp/blob/main/app/src/main/res/drawable/img_9.jpg" width="200" height="400" />|
-<img src="https://github.com/SultanMwangoyaKirigha/MovieApp/blob/main/app/src/main/res/drawable/img_10.jpg" width="200" height="400" />|
-<img src="https://github.com/SultanMwangoyaKirigha/MovieApp/blob/main/app/src/main/res/drawable/img_11.jpg" width="200" height="400" />
 
 # License
 This projects has a MIT License [found here](LICENSE)
